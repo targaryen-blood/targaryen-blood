@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Arshad Jamal!
 
 Welcome to my GitHub! I'm passionate about building useful tools, exploring new technologies, and collaborating on open-source projects. Whether it’s full-stack development, DevOps, data science, or automation—I love learning and contributing to impactful projects.
 
